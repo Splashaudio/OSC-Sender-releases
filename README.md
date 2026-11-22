@@ -12,7 +12,11 @@ OSC Sender is an app for sending Open Sound Control (OSC) messages over UDP, to 
 
 ## Windows
 
-A Windows version of OSC Sender 1.5 is coming. When it's ready, it will be in [Releases](../../releases) as `OSC-Sender-windows-<version>.zip`.
+- Needs Windows 10 or 11 (64-bit). Nothing else to install.
+- Download `OSC-Sender-windows-<version>.zip`, extract it (right-click the zip, choose **Extract All**), and run **OSC_Sender.exe**.
+- If Windows SmartScreen warns about an unknown publisher, click **More info** ▸ **Run anyway**.
+
+The Windows download is currently **version 1.0**. It sends single or repeating OSC messages with one argument type at a time, but doesn't yet have preset pads, mixed argument types or the new layout described below. Windows 1.5 is coming.
 
 ## Using OSC Sender
 
