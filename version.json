@@ -1,8 +1,8 @@
 {
   "version": "1.7.1",
-  "notes": "Clear error for floats too large for OSC, and hostnames are looked up again on each preset send.",
+  "notes": "A clear error for floats too large for OSC, and hostnames are looked up again on each preset send.",
   "download": {
-    "mac": "https://github.com/Splashaudio/OSC-Sender-releases/releases/download/v1.7/OSC-Sender-mac-1.7.zip",
+    "mac": "https://github.com/Splashaudio/OSC-Sender-releases/releases/download/v1.7.1/OSC-Sender-mac-1.7.1.zip",
     "windows": "https://github.com/Splashaudio/OSC-Sender-releases/releases/download/v1.7.1/OSC-Sender-windows-1.7.1.zip"
   },
   "page": "https://github.com/Splashaudio/OSC-Sender-releases/releases/latest"
